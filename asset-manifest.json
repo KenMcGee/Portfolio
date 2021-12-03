@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Portfolio/static/css/main.6ca87f88.chunk.css",
+    "main.js": "/Portfolio/static/js/main.074f8035.chunk.js",
+    "main.js.map": "/Portfolio/static/js/main.074f8035.chunk.js.map",
+    "runtime-main.js": "/Portfolio/static/js/runtime-main.c40ce575.js",
+    "runtime-main.js.map": "/Portfolio/static/js/runtime-main.c40ce575.js.map",
+    "static/js/2.bdfb6ed5.chunk.js": "/Portfolio/static/js/2.bdfb6ed5.chunk.js",
+    "static/js/2.bdfb6ed5.chunk.js.map": "/Portfolio/static/js/2.bdfb6ed5.chunk.js.map",
+    "static/js/3.8fbd0f0b.chunk.js": "/Portfolio/static/js/3.8fbd0f0b.chunk.js",
+    "static/js/3.8fbd0f0b.chunk.js.map": "/Portfolio/static/js/3.8fbd0f0b.chunk.js.map",
+    "index.html": "/Portfolio/index.html",
+    "static/css/main.6ca87f88.chunk.css.map": "/Portfolio/static/css/main.6ca87f88.chunk.css.map",
+    "static/js/2.bdfb6ed5.chunk.js.LICENSE.txt": "/Portfolio/static/js/2.bdfb6ed5.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/Portfolio/static/media/GradientBG2.dca40fb3.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c40ce575.js",
+    "static/js/2.bdfb6ed5.chunk.js",
+    "static/css/main.6ca87f88.chunk.css",
+    "static/js/main.074f8035.chunk.js"
+  ]
+}
